@@ -22,4 +22,3 @@ elif action == "/":
 else:
     print("Error! Type one of the following signs: (+) (-) (*) (/) \n\n")
 
-
